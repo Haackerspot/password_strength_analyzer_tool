@@ -54,10 +54,14 @@ Each passed condition increases the strength score, which determines the final r
 
 🚀 Installation & Usage
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/password-strength-analyzer.git
+git clone (https://github.com/Haackerspot/password_strength_analyzer_tool)
 cd password-strength-analyzer
+
+
 2️⃣ Run the Program
 python password_analyzer.py
+
+
 3️⃣ Enter a Password
 
 The tool will analyze and display the strength level.
